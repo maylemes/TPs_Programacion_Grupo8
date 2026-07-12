@@ -1,0 +1,7 @@
+# Bases pesadas de la EPH (se descargan de indec.gob.ar)
+TP1/bases/usu_individual_*.xlsx
+TP1/bases/usu_hogar_*.xlsx
+TP1/Diseño_metodología/*.pdf
+
+# Archivos temporales de Jupyter
+.ipynb_checkpoints/
