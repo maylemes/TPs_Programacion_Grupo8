@@ -1,6 +1,6 @@
 # TP1 - Un primer encuentro con la EPH
 
-**Taller de Programación (UBA, 2026) — Grupo 8**
+**Taller de Programación (UBA, 2026). Grupo 8**
 Estatus asignado: *Informal self-employed* (trabajadores independientes informales)
 
 **Docente:** Noelia Romero
@@ -17,9 +17,9 @@ y análisis de la distribución del ingreso.
 
 ## Organización del repositorio
 
-- `TP1_Programacion_Grupo8.ipynb` — notebook con todo el análisis (incisos 2 a 11).
-- `bases/` — bases de datos (ver nota más abajo).
-- `output/` — figuras generadas por el notebook.
+- `TP1_Programacion_Grupo8.ipynb` - notebook con todo el análisis (incisos 2 a 11).
+- `bases/` - bases de datos (ver nota más abajo).
+- `output/` - figuras generadas por el notebook.
 
 ## Cómo obtener las bases de datos
 
