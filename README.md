@@ -1,6 +1,6 @@
 # TP1 - Un primer encuentro con la EPH
 
-**Taller de Programación (UBA, 2026). Grupo 8**
+**Taller de Programación (UBA, 2026) - Grupo 8**
 Estatus asignado: *Informal self-employed* (trabajadores independientes informales)
 
 **Docente:** Noelia Romero
