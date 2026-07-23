@@ -5,3 +5,7 @@ TP1/Diseño_metodología/*.pdf
 
 # Archivos temporales de Jupyter
 .ipynb_checkpoints/
+
+# Bases en parquet (generadas localmente, no van al repo)
+*.parquet
+TP1/bases/*.parquet
